@@ -1,5 +1,7 @@
 require 'ruby_intro.rb'
 
+fejfeff
+
 describe "BookInStock" do
   it "should be defined" do
     expect { BookInStock }.not_to raise_error
